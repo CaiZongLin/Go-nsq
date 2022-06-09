@@ -1,0 +1,9 @@
+module nsq
+
+go 1.18
+
+require (
+	github.com/go-sql-driver/mysql v1.6.0 // indirect
+	github.com/golang/snappy v0.0.4 // indirect
+	github.com/nsqio/go-nsq v1.1.0 // indirect
+)
